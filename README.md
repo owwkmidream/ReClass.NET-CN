@@ -3,6 +3,9 @@ This is a port of ReClass to the .NET platform with lots of additional features.
 
 ![](https://abload.de/img/main4hsbj.jpg)
 
+## 汉化
+对整体进行简单汉化。
+
 ## Features
 - Support for x86 / x64
 - File import from ReClass 2007-2016 and ReClass QT
